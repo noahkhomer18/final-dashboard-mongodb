@@ -6,6 +6,10 @@ One of the common ways to make sure to write programs that are maintainable, rea
 
 How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-As a computer scientist one of the things I learned 
+As a computer scientist one of the things I learned was that one of the most important core personality to have is logic to solve problems. The more logic you can have and understand the better your approach to coding will be. Computer's do not think for themselves, they do what we want them to do. Anything else that is extra or not needed is just considered optional. My approach to this project differed alot because the database needed live interactive capabailities something I had not done in my previous courses.  One of the techniques I would use in the future to create databases to meet other client requests is to make sure I understand the problem fully. For example, one of the things I had to do was go step by step as detailed in instruction. At the start, I did not even understand what the assignment was asking. As I worked my way through the project, encountering different errors and figuring different solutions. By the end I had a full stack working web based dashboard. 
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+A company like Graziso Salvare is highly dependent on manual processing. All this could be manually done for sure such as find a dog, look up the place online, check the breed, determine the characteristics and so many more parameters. But are they efficient? The database/set they had was too big to work on manual processing. The process was automated in a way that now we are able to filter based on different selections. This ensures better freely mind. 
+
+Thank you for reading. 
